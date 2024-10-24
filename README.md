@@ -1,6 +1,6 @@
 # ABSTRATA_CONTA
 
-Este repositório contém um projeto em Java que implementa uma classe abstrata ContaBancaria e as seguintes subclasses ContaCorrente e ContaPoupanca. A classe abstrata ContaBancaria inclui o seguinte atributo comum: saldo; as subclasses ContaCorrente e ContaPoupanca herdam o atributo comum da superclasse.  
+Este repositório contém um projeto em Java que implementa uma classe abstrata ContaBancaria e as seguintes subclasses ContaCorrente e ContaPoupanca. A classe abstrata ContaBancaria inclui o seguinte atributo comum: saldo; as subclasses ContaCorrente e ContaPoupanca herdam o atributo comum da classe abstrata.  
 
 # 🚀 Começando  
 
